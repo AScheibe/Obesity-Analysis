@@ -1,0 +1,193 @@
+"4042814: How many previous semesters of college have you completed?
+Do not count previous summer semesters or time as a high school student, even if you took some college courses then. Do count any semesters post high school, whether at UW-Madison, another 2- or 4-year college, or a community college, for example.",4042815: Are you a declared computer science major?,4042816: Are you a declared statistics major?,4042817: Are you a declared data science major?,4042818: How many previous college-level computer programming courses have you taken? You may count AP courses or other high school courses for which you received college credit.,4043067: How many previous college-level statistics courses have you taken? You may count AP courses or other high school courses for which you received college credit.,4043071: How much experience with R or RStudio do you have?,4043072: What is your experience writing code from the tidyverse packages ggplot2 and dplyr?,"4043073: If you could have one of the following super powers, which would you choose?",4043074: Pick a number between 0 and 9.,4043075: Which of the Seven Dwarfs from Snow White are you most like?,"4043076: On average, how many hours of sleep do you get each night?","4043079: During a typical week, how many hours do you spend exercising?","4043080: During a typical week, how many hours do you spend watching television/movies?"
+0,No,No,No,4 or more,1,None,None,Ability to become invisible,7,Sleepy,7,7,7
+3-4,No,No,Yes,2,0,None,"I recognize code from these packages, but cannot write it well",Ability to fly,2,Grumpy,7,4,8
+1-2,No,No,No,2,0,None,None,Ability to become invisible,8,Sleepy,7,6,2
+5-6,No,No,No,1,4 or more,Very little,None,Ability to fly,8,Bashful,6,6,5
+3-4,No,No,No,0,0,None,None,Ability to fly,8,Doc,8,4,5
+5-6,No,No,Yes,3,1,None,None,Ability to fly,8,Sleepy,6,8,0
+3-4,No,No,No,1,2,None,None,Ability to fly,6,Dopey,7,5,10
+5-6,No,No,No,1,3,None,None,Ability to become invisible,9,Grumpy,5,6,3
+3-4,Yes,No,Yes,2,0,Very little,None,Ability to become invisible,7,Happy,7,10,2
+1-2,No,No,No,2,0,None,"I recognize code from these packages, but cannot write it well",Ability to fly,7,Happy,6,14,3
+1-2,No,No,No,3,0,None,None,Ability to become invisible,8,Dopey,5,3,35
+3-4,Yes,No,Yes,0,0,None,None,Ability to become invisible,1,Happy,7,0,3
+1-2,No,No,No,2,1,None,None,Ability to fly,7,Grumpy,7,5,15
+3-4,Yes,No,No,0,0,None,None,Ability to fly,8,NA,8,2,NA
+5-6,No,Yes,No,3,3,Very little,None,Ability to become invisible,4,NA,8,0,0
+1-2,No,No,No,1,0,None,"I recognize code from these packages, but cannot write it well",Ability to fly,7,Happy,6,2,6
+1-2,No,No,No,1,0,Very little,None,Ability to become invisible,6,Happy,7,2,10
+1-2,No,No,No,0,2,None,None,Ability to fly,7,Happy,8,2,2
+3-4,No,No,Yes,3,0,None,None,Ability to become invisible,7.3,Sneezy,4,5,9
+3-4,No,No,No,0,0,None,None,Ability to become invisible,7,Sleepy,8,2,10
+1-2,No,No,No,1,0,None,None,Ability to become invisible,9,Sleepy,7,8,1
+3-4,No,Yes,No,1,2,None,None,Ability to become invisible,3,NA,6,0,20
+5-6,No,No,Yes,2,1,None,None,Ability to fly,7,Happy,8,6,8
+5-6,No,No,Yes,4 or more,0,None,None,Ability to fly,7,Sleepy,7,4,10
+1-2,No,No,No,2,0,None,None,Ability to become invisible,3,Happy,6,15,2
+3-4,No,No,Yes,2,0,None,None,Ability to become invisible,2,Bashful,7,3,3
+3-4,No,No,Yes,1,1,None,None,Ability to become invisible,3,Happy,6,1,2
+1-2,Yes,Yes,No,2,1,None,None,Ability to fly,2,Sleepy,7,4,3
+3-4,Yes,No,Yes,4 or more,1,None,None,Ability to become invisible,7,Sleepy,6,2,4
+3-4,No,No,Yes,1,1,Very little,None,Ability to become invisible,7,Sleepy,8,3,2
+3-4,Yes,No,No,4 or more,0,None,None,Ability to fly,9,Doc,8,0,10
+1-2,Yes,No,Yes,3,0,None,None,Ability to fly,5,Happy,8,3,8
+3-4,No,No,No,0,0,Very little,None,Ability to fly,7,Sleepy,6,1,10
+1-2,No,Yes,No,3,1,None,None,Ability to become invisible,6,Happy,8,3,3
+3-4,No,No,No,0,1,None,None,Ability to fly,8,Happy,8,7,10
+3-4,No,No,Yes,3,0,None,None,Ability to become invisible,6,Sleepy,6,3,0
+5-6,Yes,No,Yes,4 or more,1,None,"I recognize code from these packages, but cannot write it well",Ability to fly,7,Happy,6,3,10
+3-4,Yes,No,No,4 or more,4 or more,Some,"I recognize code from these packages, but cannot write it well",Ability to fly,2,Sleepy,8,10,14
+1-2,No,No,Yes,0,1,None,None,Ability to fly,7,Sleepy,7,10,2
+1-2,No,No,No,0,0,None,None,Ability to fly,1,Sleepy,7,5,5
+3-4,No,No,Yes,1,0,None,None,Ability to become invisible,2,Dopey,8,14,10
+1-2,Yes,No,Yes,4 or more,2,None,None,Ability to become invisible,6,Doc,7.5,7,1
+3-4,Yes,No,No,3,0,None,None,Ability to become invisible,4,Sneezy,8,1,3
+5-6,Yes,No,Yes,4 or more,2,None,None,Ability to become invisible,6,Sleepy,9,1,0
+3-4,No,Yes,Yes,2,1,None,None,Ability to fly,9,Happy,9,3,5
+1-2,No,No,No,1,0,None,None,Ability to fly,7,Happy,8,3,2
+5-6,No,No,Yes,0,1,None,None,Ability to become invisible,7,Sneezy,5.5,7,4
+7 or more,No,No,No,1,0,Very little,None,Ability to fly,7,Sneezy,7,10,15
+3-4,Yes,No,No,3,1,None,None,Ability to fly,9,Happy,7,7.5,6
+7 or more,No,No,No,0,1,None,None,Ability to become invisible,2,Grumpy,7,7,3
+1-2,No,No,No,0,0,None,None,Ability to fly,6,Sleepy,7,1.5,3
+5-6,No,No,Yes,4 or more,0,Very little,I know the basics of one or both packages,Ability to become invisible,4,Sleepy,9,0,4
+7 or more,Yes,No,No,4 or more,0,None,None,Ability to become invisible,7,Sleepy,6,8,4
+1-2,Yes,No,No,4 or more,1,None,None,Ability to become invisible,4,Doc,6,0,10
+3-4,No,No,No,1,0,None,None,NA,7,NA,7,6,3
+5-6,No,No,No,1,0,None,None,Ability to fly,9,Dopey,7,1,7
+3-4,Yes,No,No,4 or more,0,None,None,Ability to fly,1,Happy,7,6,9
+5-6,No,No,No,0,0,Very little,None,Ability to become invisible,3,Sleepy,7,5,5
+5-6,No,No,No,1,4 or more,Some,I know the basics of one or both packages,Ability to fly,7,Happy,8,7,8
+3-4,No,No,Yes,0,1,None,None,Ability to fly,7,Happy,7,2,2
+1-2,No,No,No,2,2,None,None,Ability to become invisible,8,Happy,6,8,5
+3-4,No,No,Yes,0,1,None,None,Ability to become invisible,7,Sneezy,8,10,7
+3-4,No,No,No,1,1,Very little,"I recognize code from these packages, but cannot write it well",Ability to become invisible,2,Doc,7.5,7,4
+5-6,Yes,No,Yes,3,0,None,None,Ability to fly,5,Doc,6,6,8
+5-6,No,No,Yes,2,0,None,None,Ability to become invisible,7,Happy,6,4,5
+3-4,No,No,No,0,2,None,None,Ability to become invisible,6,Dopey,8,4,4
+3-4,No,No,No,0,1,Some,"I recognize code from these packages, but cannot write it well",Ability to become invisible,8,Dopey,8,12,5
+3-4,No,No,No,1,1,None,None,Ability to fly,7,Happy,9,5,5
+5-6,No,No,Yes,2,2,Very little,None,Ability to fly,3,Happy,7,1,2
+1-2,No,No,No,0,1,None,None,Ability to fly,5,Bashful,6,3,3
+3-4,Yes,No,No,4 or more,1,None,None,Ability to become invisible,3,Doc,8,8,8
+1-2,No,No,No,0,1,None,None,Ability to fly,5,Sleepy,7,4,3
+7 or more,No,No,No,1,1,Very little,None,Ability to fly,3,Sleepy,7,2,1
+3-4,Yes,No,Yes,4 or more,1,None,None,Ability to become invisible,4,NA,NA,NA,NA
+3-4,No,No,Yes,1,2,None,None,Ability to fly,8,Happy,8,NA,NA
+7 or more,No,No,Yes,3,0,None,None,Ability to fly,1,Bashful,6,3,16
+3-4,Yes,No,Yes,3,0,None,None,Ability to fly,7,Happy,8,4,10
+1-2,No,No,Yes,2,0,None,None,Ability to become invisible,5,Happy,7,4,7
+5-6,Yes,No,Yes,4 or more,0,None,None,Ability to fly,5,Sleepy,8,4,6
+3-4,No,No,No,1,0,None,None,Ability to fly,4,Dopey,6,7,3
+5-6,No,No,No,0,0,None,None,Ability to fly,5,Sleepy,9,3,10
+5-6,No,No,No,1,1,Some,I know the basics of one or both packages,Ability to fly,4,Dopey,7,0,4
+1-2,No,No,Yes,2,2,Very little,None,Ability to become invisible,5,Sleepy,6,6,4
+5-6,No,No,No,2,0,None,None,Ability to become invisible,1,Grumpy,7,3,4
+1-2,No,No,No,2,2,Some,"I recognize code from these packages, but cannot write it well",Ability to become invisible,9,Bashful,8,6,10
+3-4,Yes,No,No,4 or more,1,Very little,"I recognize code from these packages, but cannot write it well",Ability to fly,3,Grumpy,8,8,4
+3-4,No,No,No,2,1,Very little,None,Ability to fly,3,Dopey,8,6,10
+5-6,No,No,Yes,1,0,None,None,Ability to fly,6,Happy,6,10,4
+3-4,No,No,No,1,1,None,None,Ability to become invisible,7,Bashful,7,5,4
+3-4,No,Yes,No,1,1,None,None,Ability to become invisible,2,Sleepy,6,12,12
+5-6,Yes,No,Yes,4 or more,2,None,None,Ability to fly,2,NA,7,3,8
+3-4,No,No,No,2,1,None,None,Ability to fly,7,Happy,8,5,5
+3-4,No,No,Yes,0,0,None,None,Ability to become invisible,3,Dopey,9,5,5
+7 or more,Yes,No,No,4 or more,1,Lots,I know the basics of one or both packages,Ability to fly,6,Doc,8,4,4
+3-4,No,No,No,0,1,None,None,Ability to fly,2,Bashful,8,8,2
+3-4,No,No,No,2,1,Very little,"I recognize code from these packages, but cannot write it well",Ability to become invisible,2,Bashful,7,12,6
+5-6,No,No,Yes,2,2,Some,"I recognize code from these packages, but cannot write it well",Ability to become invisible,8,Sleepy,7,3,3
+3-4,No,No,No,1,0,None,None,Ability to fly,4,Happy,7,3,1
+1-2,No,No,No,0,0,None,None,Ability to fly,7,Happy,8,1,4
+3-4,No,No,No,2,0,None,None,Ability to become invisible,8,Sleepy,6,2,8
+1-2,No,No,Yes,2,1,None,None,Ability to fly,7,Doc,6,3,15
+1-2,No,No,No,1,0,None,None,Ability to fly,7,Grumpy,8,0,0
+3-4,No,No,NA,1,0,None,None,Ability to become invisible,7,Bashful,7,14,15
+1-2,No,No,Yes,1,2,Some,None,Ability to fly,5,Dopey,7,5,7
+3-4,No,No,No,0,1,None,None,Ability to become invisible,9,Grumpy,7,4,10
+3-4,No,No,No,2,0,Very little,None,Ability to fly,3,Happy,7,2,8
+3-4,Yes,No,Yes,4 or more,1,Some,None,Ability to fly,8,Happy,7,3,4
+3-4,No,Yes,Yes,3,2,Some,"I recognize code from these packages, but cannot write it well",Ability to become invisible,5,Happy,8,2,8
+3-4,Yes,No,Yes,3,0,None,None,Ability to fly,8,Sneezy,8,9,12
+3-4,No,No,No,0,0,None,None,Ability to fly,7,Happy,7,2,2
+1-2,Yes,No,No,2,1,Some,None,Ability to become invisible,7,Bashful,8,5,1
+5-6,No,No,No,0,1,None,None,Ability to become invisible,7,Grumpy,7,4,4
+7 or more,No,No,No,2,4 or more,Some,"I recognize code from these packages, but cannot write it well",Ability to fly,8,Sleepy,8,1,8
+1-2,No,No,No,3,0,None,None,Ability to fly,0,Happy,9,2,0
+3-4,No,No,No,1,2,None,None,Ability to become invisible,6,Happy,7,1,1
+3-4,Yes,No,Yes,4 or more,1,None,None,Ability to become invisible,8,Bashful,8,6,2
+3-4,No,No,No,2,1,None,None,Ability to become invisible,2,Sleepy,7,0,10
+3-4,No,No,No,0,0,None,None,Ability to become invisible,6,Happy,8,4,9
+5-6,No,No,No,1,1,None,None,Ability to fly,8,Happy,7.5,6,2
+3-4,No,No,Yes,0,0,Very little,None,Ability to fly,8,Happy,7.5,10,7
+1-2,No,No,No,0,1,None,None,Ability to fly,2,Sneezy,6,2,3
+1-2,No,No,No,1,1,None,None,Ability to become invisible,3,Doc,6,4,6
+1-2,No,No,No,2,0,None,None,Ability to fly,5,Doc,7,4,5
+3-4,Yes,No,Yes,4 or more,0,None,None,Ability to become invisible,5,Happy,7,5,10
+3-4,No,No,No,1,0,None,None,Ability to become invisible,0,Sneezy,8,10,5
+1-2,No,No,No,0,0,None,None,Ability to become invisible,1,Happy,10,2,4
+3-4,No,No,Yes,3,3,Lots,None,Ability to fly,2,Doc,8,6,12
+5-6,No,No,No,0,0,None,None,Ability to become invisible,5,Sleepy,7,2,5
+1-2,No,No,No,0,1,None,None,Ability to become invisible,0,Dopey,9,5,4
+7 or more,No,No,Yes,4 or more,2,None,None,Ability to fly,7,Happy,5,12,18
+1-2,No,No,Yes,1,0,None,None,Ability to become invisible,2,Doc,7,0.5,2
+1-2,Yes,No,No,2,0,None,None,Ability to fly,7,Dopey,7,12,6
+1-2,No,No,No,1,1,None,None,Ability to fly,8,Happy,8,8,8
+3-4,No,No,No,2,0,None,"I recognize code from these packages, but cannot write it well",Ability to become invisible,1,Dopey,10,5,10
+1-2,No,No,No,1,1,None,None,Ability to become invisible,8,Dopey,8,4,2
+3-4,No,No,Yes,3,0,None,None,Ability to become invisible,7,Dopey,6,4,5
+3-4,Yes,No,Yes,4 or more,0,None,None,Ability to become invisible,5,Sleepy,6,4,8
+5-6,No,No,Yes,2,2,None,None,Ability to become invisible,7,Happy,8,5,4
+1-2,No,No,Yes,1,0,None,None,Ability to fly,2,Sleepy,5.5,2,2
+5-6,No,No,No,0,1,None,None,Ability to fly,7,Sleepy,7,6,8
+3-4,No,No,No,2,1,None,None,Ability to fly,9,Happy,7.5,3,10
+3-4,No,No,Yes,2,1,None,None,Ability to become invisible,2,Sneezy,9,7,4
+3-4,Yes,No,No,4 or more,1,None,None,Ability to fly,9,Sleepy,7,3,10
+5-6,No,No,Yes,2,0,None,None,Ability to fly,7,Happy,7,4,2
+7 or more,No,No,No,3,3,Very little,None,Ability to become invisible,7,Grumpy,8,7,3
+3-4,Yes,No,Yes,3,1,Very little,"I recognize code from these packages, but cannot write it well",Ability to fly,8,Happy,6,2,5
+1-2,No,No,No,4 or more,1,None,None,Ability to fly,0,Grumpy,8,5,10
+3-4,No,No,Yes,1,2,None,None,Ability to fly,7,Happy,7,0,1
+7 or more,Yes,No,Yes,4 or more,0,None,None,Ability to fly,9,Happy,7.5,4,5
+3-4,No,No,Yes,0,0,None,None,Ability to fly,3,Bashful,9,8,4
+1-2,Yes,No,No,2,1,Some,None,Ability to fly,3,Doc,8,12,2
+7 or more,Yes,No,No,4 or more,1,None,None,Ability to become invisible,1,Sleepy,7,0,7
+3-4,Yes,No,No,4 or more,0,None,None,Ability to become invisible,7,Happy,8,5,10
+1-2,No,No,No,2,0,None,None,Ability to become invisible,7,Happy,7,1.5,2
+1-2,Yes,No,Yes,4 or more,1,None,None,Ability to fly,7,Doc,8,0,0
+5-6,No,No,Yes,2,3,None,None,Ability to become invisible,9,Happy,7,2,4
+1-2,No,No,No,0,0,None,None,Ability to become invisible,6,Sleepy,7,10,10
+1-2,No,No,No,2,1,Very little,None,Ability to fly,2,Happy,6,7,1
+1-2,No,No,No,3,1,Very little,"I recognize code from these packages, but cannot write it well",Ability to fly,2,Bashful,7,1.5,3
+5-6,Yes,No,Yes,4 or more,3,Some,None,Ability to become invisible,8,Sleepy,7,7,15
+3-4,No,No,Yes,2,1,None,None,Ability to become invisible,8,Sneezy,7,4,5
+3-4,No,No,Yes,2,1,None,None,Ability to fly,2,Dopey,7,6,3
+3-4,No,No,Yes,1,0,None,None,Ability to fly,9,Happy,8,8,5
+0,No,No,No,2,0,Very little,None,Ability to fly,8,Happy,7,10,10
+1-2,Yes,No,No,2,1,None,None,Ability to become invisible,7,Doc,7,7,5
+3-4,No,No,No,2,0,None,None,Ability to become invisible,6,Dopey,7,2,6
+5-6,No,No,Yes,1,0,Very little,"I recognize code from these packages, but cannot write it well",Ability to become invisible,8,Grumpy,5,10,10
+1-2,Yes,No,No,1,0,None,None,Ability to become invisible,7,NA,6,7,7
+3-4,Yes,No,Yes,4 or more,1,Some,None,Ability to fly,7,Sleepy,7,2,10
+3-4,No,No,Yes,3,1,None,None,Ability to become invisible,7,Sleepy,7,2,5
+3-4,Yes,No,No,4 or more,0,None,None,Ability to fly,7,Sleepy,6,14,3
+3-4,Yes,No,Yes,0,0,None,None,Ability to become invisible,2,Sleepy,8,8,10
+3-4,Yes,No,Yes,4 or more,0,None,None,Ability to fly,2,Doc,4,3.5,10
+3-4,Yes,No,No,4 or more,0,Very little,None,Ability to fly,6,Happy,7,5,14
+5-6,No,No,Yes,0,1,None,None,Ability to fly,9,Bashful,7.5,2.5,18
+5-6,No,No,No,0,3,None,None,Ability to fly,8,Dopey,7,4,2
+5-6,No,No,Yes,4 or more,1,Some,None,Ability to fly,3,NA,4,8,3
+1-2,No,No,No,2,0,None,None,Ability to fly,2,Happy,8,2,2
+3-4,No,No,Yes,3,1,None,None,Ability to fly,4,Happy,8,4,6
+3-4,Yes,No,Yes,3,0,None,None,Ability to fly,9,Happy,9,1,2
+3-4,No,No,No,3,0,None,None,Ability to fly,5,Happy,6.5,1,1.5
+0,No,No,No,3,0,None,None,Ability to become invisible,8,Dopey,6.5,3.5,5
+3-4,Yes,No,Yes,4 or more,0,None,None,Ability to become invisible,5,Happy,6,7,1
+3-4,Yes,No,No,4 or more,2,None,"I recognize code from these packages, but cannot write it well",Ability to become invisible,6,Sleepy,7,0,48
+1-2,Yes,No,Yes,2,1,None,None,Ability to fly,3,NA,7,10,0
+3-4,No,No,Yes,1,1,None,None,Ability to fly,5,Bashful,7,14,3
+3-4,Yes,No,No,4 or more,1,Very little,None,Ability to fly,8,Happy,7,5,4
+1-2,No,No,No,4 or more,0,None,None,Ability to become invisible,7,Sleepy,6,4,10
+3-4,No,No,No,0,0,None,None,Ability to fly,8,Doc,7,6,1
+7 or more,No,No,No,0,0,Very little,None,Ability to become invisible,7,Grumpy,7,3,5
+3-4,No,No,No,2,2,Lots,"I recognize code from these packages, but cannot write it well",Ability to fly,2,Dopey,6,4,5
